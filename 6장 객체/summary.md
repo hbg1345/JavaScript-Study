@@ -9,6 +9,10 @@
 - new
 - Object.create(): 프로토타입 객체를 인자로 받아서 그것을 상속하는 객체를 생성한다.
 
+## 객체 확장
+```js
+Object.assign(target, source);
+```
 ## 연관 배열(associative array)
 문자열을 인덱스로 사용하는 배열
 - 해시, 맵, 딕셔너리 라고 부르기도 한다.
